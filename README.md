@@ -14,7 +14,7 @@ In this repository, you will find organized folders corresponding to different c
 
 The repository is structured as follows:
 
--   `Chapter[chapter no]/[File name]`: [Desc].
+-   `Chapter[chapter no]/[filename]-[chapter]-[index].[filetype]`: [Desc].
 
 Feel free to navigate through the repository, explore the code, and leverage it to enhance your understanding of the concepts presented in WebRTC Basics+.
 
